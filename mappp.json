@@ -174,15 +174,15 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/Downloads\/floortileset.tsx"
+         "source":"floortileset.png"
         }, 
         {
          "firstgid":65,
-         "source":"..\/Downloads\/office_1.tsx"
+         "source":"tilesets_deviant_milkian_1.png"
         }, 
         {
          "firstgid":321,
-         "source":"..\/Downloads\/project-map-master\/project-map-master\/FH_Assets.tsx"
+         "source":"FH_Assets.png"
         }],
  "tilewidth":32,
  "type":"map",
